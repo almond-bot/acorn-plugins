@@ -1,0 +1,4 @@
+# Acorn Harness MCP server for Codex (CLI, IDE extension and desktop app).
+# Add this table to ~/.codex/config.toml, or to .codex/config.toml in a trusted project.
+[mcp_servers.acorn]
+url = "https://acornharness.com/mcp"

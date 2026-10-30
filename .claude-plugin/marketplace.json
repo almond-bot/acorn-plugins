@@ -1,0 +1,16 @@
+{
+    "name": "acorn-plugins",
+    "description": "Acorn Harness plugins for Claude Code: configure, price and order custom XT30 wire harnesses.",
+    "owner": {
+        "name": "Almond Robotics",
+        "email": "support@almond.bot"
+    },
+    "plugins": [
+        {
+            "name": "acorn",
+            "source": "./plugins/acorn",
+            "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness. Connects the remote MCP server at https://acornharness.com/mcp and adds an ordering skill.",
+            "version": "1.0.0"
+        }
+    ]
+}

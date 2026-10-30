@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "acorn": {
+            "type": "http",
+            "url": "https://acornharness.com/mcp"
+        }
+    }
+}

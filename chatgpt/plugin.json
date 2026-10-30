@@ -1,0 +1,35 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "acorn",
+    "version": "1.0.0",
+    "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness.",
+    "author": {
+        "name": "Almond Robotics",
+        "email": "support@almond.bot",
+        "url": "https://acornharness.com"
+    },
+    "homepage": "https://acornharness.com/ai",
+    "repository": "https://github.com/almond-bot/acorn-plugins",
+    "keywords": ["wire harness", "xt30", "xt30(2+2)", "jst gh", "can bus", "robotics", "cables"],
+    "extensions": {
+        "com.openai": {
+            "interface": {
+                "displayName": "Acorn Harness",
+                "shortDescription": "Design and order custom XT30 wire harnesses",
+                "longDescription": "Describe the cable you need and Acorn Harness turns it into a custom XT30, XT30(2+2) or XT30 + JST GH wire harness: connector, wire length, gauge, straight or right-angle ends, tinned leads and wire colors. Get the exact price and a link to the design, then a checkout link to pay on acornharness.com. Wire harnesses are made to order and Assembled in the USA.",
+                "developerName": "Almond Robotics",
+                "category": "Shopping",
+                "capabilities": ["Read", "Write"],
+                "websiteURL": "https://acornharness.com",
+                "defaultPrompt": [
+                    "Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, straight on one end and right angle down on the other.",
+                    "I need 4 XT30 pigtails, 200 mm of 18 AWG with tinned leads. Send me a checkout link.",
+                    "Make a 600 mm XT30(2+2) to JST GH CAN cable with the signal pair crossed and order 2."
+                ],
+                "brandColor": "#A0602A",
+                "composerIcon": "./assets/icon.png",
+                "logo": "./assets/logo.png"
+            }
+        }
+    }
+}

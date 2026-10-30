@@ -1,0 +1,22 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "com.acornharness/acorn",
+    "title": "Acorn Harness",
+    "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses.",
+    "version": "1.0.0",
+    "websiteUrl": "https://acornharness.com/ai",
+    "repository": {
+        "url": "https://github.com/almond-bot/acorn-plugins",
+        "source": "github"
+    },
+    "icons": [
+        { "src": "https://acornharness.com/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+        { "src": "https://acornharness.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+    ],
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://acornharness.com/mcp"
+        }
+    ]
+}
