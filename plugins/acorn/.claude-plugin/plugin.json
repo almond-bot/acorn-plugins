@@ -1,0 +1,14 @@
+{
+    "name": "acorn",
+    "version": "1.0.0",
+    "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness.",
+    "author": {
+        "name": "Almond Robotics",
+        "email": "support@almond.bot",
+        "url": "https://acornharness.com"
+    },
+    "homepage": "https://acornharness.com/ai",
+    "repository": "https://github.com/almond-bot/acorn-plugins",
+    "license": "MIT",
+    "keywords": ["wire harness", "xt30", "xt30(2+2)", "jst gh", "can bus", "robotics", "cables", "mcp"]
+}
