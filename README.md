@@ -62,7 +62,7 @@ Custom connectors need a paid Claude plan.
 
 ## Try it
 
-> Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, straight on one end and right angle down on the other.
+> Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, end A straight and end B right angle down.
 
 > I need 4 XT30 pigtails, 200 mm of 18 AWG with tinned leads. Send me a checkout link.
 
