@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness.",
     "author": {
-        "name": "Almond Robotics",
+        "name": "Almond AI, Inc.",
         "email": "support@almond.bot",
         "url": "https://acornharness.com"
     },
@@ -17,7 +17,7 @@
                 "displayName": "Acorn Harness",
                 "shortDescription": "Design and order custom XT30 wire harnesses",
                 "longDescription": "Describe the cable you need and Acorn Harness turns it into a custom XT30, XT30(2+2) or XT30 + JST GH wire harness: connector, wire length, gauge, straight or right-angle ends, tinned leads and wire colors. Get the exact price and a link to the design, then a checkout link to pay on acornharness.com. Wire harnesses are made to order and Assembled in the USA.",
-                "developerName": "Almond Robotics",
+                "developerName": "Almond AI, Inc.",
                 "category": "Shopping",
                 "capabilities": ["Read", "Write"],
                 "websiteURL": "https://acornharness.com",

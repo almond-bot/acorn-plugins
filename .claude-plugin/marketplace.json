@@ -2,7 +2,7 @@
     "name": "acorn-plugins",
     "description": "Acorn Harness plugins for Claude Code: configure, price and order custom XT30 wire harnesses.",
     "owner": {
-        "name": "Almond Robotics",
+        "name": "Almond AI, Inc.",
         "email": "support@almond.bot"
     },
     "plugins": [
