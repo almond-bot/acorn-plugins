@@ -47,4 +47,4 @@ claude --plugin-dir ./plugins/acorn
 
 The skill is duplicated in `chatgpt/skills/`; keep both copies identical.
 
-Questions: support@almond.bot
+[Privacy Policy](https://acornharness.com/privacy) · [Terms of Service](https://acornharness.com/terms) · Questions: support@almond.bot

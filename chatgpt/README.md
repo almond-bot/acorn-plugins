@@ -16,7 +16,7 @@ cd chatgpt
 zip -r ../acorn-harness-openai-plugin.zip plugin.json mcp.json skills assets
 ```
 
-Before uploading, add `privacyPolicyURL` (required by the directory) and, if you have one, `termsOfServiceURL` under `extensions.com.openai.interface`.
+`extensions.com.openai.interface` sets `privacyPolicyURL` (required by the directory) to https://acornharness.com/privacy and `termsOfServiceURL` to https://acornharness.com/terms.
 
 The skill is duplicated in `plugins/acorn/skills/`; keep both copies identical.
 

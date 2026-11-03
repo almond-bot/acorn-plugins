@@ -8,7 +8,7 @@
         "email": "support@almond.bot",
         "url": "https://acornharness.com"
     },
-    "homepage": "https://acornharness.com/ai",
+    "homepage": "https://acornharness.com/developers#ai",
     "repository": "https://github.com/almond-bot/acorn-plugins",
     "keywords": ["wire harness", "xt30", "xt30(2+2)", "jst gh", "can bus", "robotics", "cables"],
     "extensions": {
@@ -21,6 +21,8 @@
                 "category": "Shopping",
                 "capabilities": ["Read", "Write"],
                 "websiteURL": "https://acornharness.com",
+                "privacyPolicyURL": "https://acornharness.com/privacy",
+                "termsOfServiceURL": "https://acornharness.com/terms",
                 "defaultPrompt": [
                     "Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, straight on one end and right angle down on the other.",
                     "I need 4 XT30 pigtails, 200 mm of 18 AWG with tinned leads. Send me a checkout link.",
