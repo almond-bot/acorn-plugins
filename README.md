@@ -78,7 +78,14 @@ Custom connectors need a paid Claude plan.
 | `chatgpt/` | Agent Plugins package for ChatGPT and the OpenAI plugin directory. |
 | `server.json` | Official MCP Registry entry (`com.acornharness/acorn`). |
 
-Full setup guide for every assistant: https://acornharness.com/ai
+Full setup guide for every assistant: https://acornharness.com/developers#ai
+
+API docs: https://acornharness.com/developers#api
+
+## Privacy and terms
+
+- [Privacy Policy](https://acornharness.com/privacy). See [Orders through an AI assistant](https://acornharness.com/privacy#ai) for what the MCP server receives when your assistant quotes or orders a wire harness.
+- [Terms of Service](https://acornharness.com/terms)
 
 Questions: support@almond.bot
 

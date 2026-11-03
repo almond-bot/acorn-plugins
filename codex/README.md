@@ -32,4 +32,6 @@ approval_mode = "prompt"
 
 Codex calls `quote_harness`, then `create_order`, and returns a link on acornharness.com where you pay. Codex never needs your card details.
 
-Full setup guide for every assistant: https://acornharness.com/ai · Questions: support@almond.bot
+Full setup guide for every assistant: https://acornharness.com/developers#ai · API docs: https://acornharness.com/developers#api
+
+[Privacy Policy](https://acornharness.com/privacy) · [Terms of Service](https://acornharness.com/terms) · Questions: support@almond.bot
