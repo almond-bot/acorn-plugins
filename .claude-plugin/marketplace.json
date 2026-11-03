@@ -10,7 +10,7 @@
             "name": "acorn",
             "source": "./plugins/acorn",
             "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness. Connects the remote MCP server at https://acornharness.com/mcp and adds an ordering skill.",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "homepage": "https://acornharness.com/developers#ai"
         }
     ]

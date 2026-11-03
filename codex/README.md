@@ -28,7 +28,7 @@ approval_mode = "prompt"
 
 ## Try it
 
-> Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, straight on one end and right angle down on the other, then give me a checkout link.
+> Quote 10 XT30(2+2) wire harnesses, 350 mm, 16 AWG, end A straight and end B right angle down, then give me a checkout link.
 
 Codex calls `quote_harness`, then `create_order`, and returns a link on acornharness.com where you pay. Codex never needs your card details.
 
