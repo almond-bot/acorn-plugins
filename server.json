@@ -3,7 +3,7 @@
     "name": "com.acornharness/acorn",
     "title": "Acorn Harness",
     "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "websiteUrl": "https://acornharness.com/developers#ai",
     "repository": {
         "url": "https://github.com/almond-bot/acorn-plugins",

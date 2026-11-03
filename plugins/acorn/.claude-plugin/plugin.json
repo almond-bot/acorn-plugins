@@ -1,6 +1,6 @@
 {
     "name": "acorn",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Configure, price and order custom XT30, XT30(2+2) and XT30 + JST GH wire harnesses from Acorn Harness.",
     "author": {
         "name": "Almond AI, Inc.",
